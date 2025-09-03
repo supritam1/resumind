@@ -31,6 +31,11 @@ ResuMind is an AI-powered resume checker designed to help users analyze and impr
 
 Puter.js
 
+📷 Screenshots
+<img width="1895" height="914" alt="image" src="https://github.com/user-attachments/assets/972d7553-a425-435b-9ad2-d90003fae3fc" />
+<img width="1897" height="907" alt="image" src="https://github.com/user-attachments/assets/9f3b61f3-1ec4-4b5e-92d9-f5b82ea85ac4" />
+<img width="1894" height="903" alt="image" src="https://github.com/user-attachments/assets/4a34e707-0139-445f-88ec-14e8e97fa23f" />
+
 🤝 Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
